@@ -5,7 +5,7 @@ Generates unambiguous alphanumeric strings from a provided number or base-10 str
 # Install
 
 ```sh
-npm install --save git@github.com:cardash/unambiguous-alphanumerics
+npm install --save git+ssh://git@github.com:cardash/unambiguous-alphanumerics
 ```
 
 # Usage
