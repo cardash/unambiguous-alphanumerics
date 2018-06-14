@@ -1,5 +1,7 @@
 # @cardash/unambiguous-alphanumerics
 
+[![CircleCI](https://circleci.com/gh/cardash/unambiguous-alphanumerics/tree/master.svg?style=svg)](https://circleci.com/gh/cardash/unambiguous-alphanumerics/tree/master)
+
 Generates unambiguous alphanumeric strings from a provided number or base-10 string, and reverse. Also validates a given string as an unambiguous string.
 
 # Install
