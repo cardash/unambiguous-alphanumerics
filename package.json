@@ -1,0 +1,33 @@
+{
+  "name": "unambiguous-alphanumerics",
+  "version": "1.0.0",
+  "description": "Generates unambiguous alphanumeric strings from a provided number or base-10 string, and reverse. Also validates a given string as an unambiguous string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cardash/unambiguous-alphanumerics.git"
+  },
+  "keywords": [
+    "unambiguous",
+    "human-legible",
+    "napkin-proof",
+    "alphanumeric",
+    "encoding"
+  ],
+  "author": "David Ellis <david@cardash.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/cardash/unambiguous-alphanumerics/issues"
+  },
+  "homepage": "https://github.com/cardash/unambiguous-alphanumerics#readme",
+  "dependencies": {
+    "bignumber.js": "^7.2.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "nyc": "^12.0.2"
+  }
+}
