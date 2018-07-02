@@ -1,13 +1,13 @@
 # @cardash/unambiguous-alphanumerics
 
-[![CircleCI](https://circleci.com/gh/cardash/unambiguous-alphanumerics/tree/master.svg?style=svg&circle-token=bb28028736ae338f81c5d37a2f29a84fdbe050b3)](https://circleci.com/gh/cardash/unambiguous-alphanumerics/tree/master)
+[![CircleCI](https://circleci.com/gh/cardash/unambiguous-alphanumerics/tree/master.svg?style=svg&circle-token=bb28028736ae338f81c5d37a2f29a84fdbe050b3)](https://circleci.com/gh/cardash/unambiguous-alphanumerics/tree/master) [![Coverage Status](https://coveralls.io/repos/github/cardash/unambiguous-alphanumerics/badge.svg?branch=master)](https://coveralls.io/github/cardash/unambiguous-alphanumerics?branch=master)
 
 Generates unambiguous alphanumeric strings from a provided number or base-10 string, and reverse. Also validates a given string as an unambiguous string.
 
 # Install
 
 ```sh
-npm install --save git+ssh://git@github.com:cardash/unambiguous-alphanumerics
+npm install --save @cardash/unambiguous-alphanumerics
 ```
 
 # Usage
