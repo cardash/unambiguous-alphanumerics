@@ -2,9 +2,9 @@
   "name": "@cardash/unambiguous-alphanumerics",
   "version": "1.0.2",
   "description": "Generates unambiguous alphanumeric strings from a provided number or base-10 string, and reverse. Also validates a given string as an unambiguous string.",
-  "main": "lib/index.js",
+  "main": "out/index.js",
   "scripts": {
-    "build": "babel index.js -d lib",
+    "build": "babel index.js -d out",
     "test": "nyc mocha test/*",
     "coverage": "COVERALLS_SERVICE_NAME=circleci nyc report --reporter=text-lcov | coveralls"
   },
