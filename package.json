@@ -1,6 +1,6 @@
 {
   "name": "@cardash/unambiguous-alphanumerics",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Generates unambiguous alphanumeric strings from a provided number or base-10 string, and reverse. Also validates a given string as an unambiguous string.",
   "main": "out/index.js",
   "scripts": {
